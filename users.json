@@ -1,0 +1,190 @@
+{
+    "1397943233723629648": {
+        "cash": 51765,
+        "marriage": null,
+        "lovePoints": 0,
+        "inventory": {
+            "101": 1
+        },
+        "consumables": {},
+        "uniqueItems": {
+            "37227d33-47a1-4938-9a1d-c3d961b8235a": {
+                "itemId": 402,
+                "maxDurability": 25,
+                "currentDurability": 25
+            },
+            "0092f939-2410-47c2-a369-7adb5628de64": {
+                "itemId": 402,
+                "maxDurability": 25,
+                "currentDurability": 24
+            }
+        },
+        "equipped": {
+            "rod": "0092f939-2410-47c2-a369-7adb5628de64",
+            "pickaxe": null,
+            "tool": null
+        },
+        "dailyLastUsed": 1765430185307,
+        "weeklyLastUsed": 0,
+        "mineLastUsed": 0,
+        "fishLastUsed": 1765434564849,
+        "huntLastUsed": 0,
+        "slotLastUsed": 1765445891730,
+        "coinflipLastUsed": 0,
+        "blackjackLastUsed": 0,
+        "robLastUsed": 0,
+        "smuggleLastUsed": 0,
+        "begLastUsed": 0,
+        "cookLastUsed": 1765434733782,
+        "exerciseLastUsed": 1765430165954,
+        "workLastUsed": 1765447250035,
+        "questLastUsed": 0,
+        "questData": {
+            "active": false,
+            "type": null,
+            "target": 0,
+            "progress": 0,
+            "reward": 0
+        }
+    },
+    "999857098827509822": {
+        "cash": 3311,
+        "marriage": null,
+        "lovePoints": 0,
+        "inventory": {},
+        "consumables": {},
+        "uniqueItems": {},
+        "equipped": {
+            "rod": null,
+            "pickaxe": null,
+            "tool": null
+        },
+        "dailyLastUsed": 0,
+        "weeklyLastUsed": 0,
+        "mineLastUsed": 0,
+        "fishLastUsed": 0,
+        "huntLastUsed": 0,
+        "slotLastUsed": 1765376197786,
+        "coinflipLastUsed": 0,
+        "blackjackLastUsed": 0,
+        "robLastUsed": 0,
+        "smuggleLastUsed": 0,
+        "begLastUsed": 0,
+        "cookLastUsed": 0,
+        "exerciseLastUsed": 0,
+        "workLastUsed": 1765376161115,
+        "questLastUsed": 0,
+        "questData": {
+            "active": false,
+            "type": null,
+            "target": 0,
+            "progress": 0,
+            "reward": 0
+        }
+    },
+    "1253878709891497989": {
+        "cash": 4328,
+        "marriage": null,
+        "lovePoints": 0,
+        "inventory": {},
+        "consumables": {},
+        "uniqueItems": {},
+        "equipped": {
+            "rod": null,
+            "pickaxe": null,
+            "tool": null
+        },
+        "dailyLastUsed": 0,
+        "weeklyLastUsed": 0,
+        "mineLastUsed": 0,
+        "fishLastUsed": 0,
+        "huntLastUsed": 0,
+        "slotLastUsed": 1765376216314,
+        "coinflipLastUsed": 0,
+        "blackjackLastUsed": 0,
+        "robLastUsed": 0,
+        "smuggleLastUsed": 0,
+        "begLastUsed": 0,
+        "cookLastUsed": 0,
+        "exerciseLastUsed": 0,
+        "workLastUsed": 1765376163292,
+        "questLastUsed": 0,
+        "questData": {
+            "active": false,
+            "type": null,
+            "target": 0,
+            "progress": 0,
+            "reward": 0
+        }
+    },
+    "996300649954287616": {
+        "cash": 52156,
+        "marriage": null,
+        "lovePoints": 0,
+        "inventory": {},
+        "consumables": {},
+        "uniqueItems": {},
+        "equipped": {
+            "rod": null,
+            "pickaxe": null,
+            "tool": null
+        },
+        "questData": {
+            "active": false,
+            "type": null,
+            "target": 0,
+            "progress": 0,
+            "reward": 0
+        },
+        "dailyLastUsed": 1765434636353,
+        "weeklyLastUsed": 0,
+        "mineLastUsed": 0,
+        "fishLastUsed": 0,
+        "huntLastUsed": 0,
+        "slotLastUsed": 0,
+        "coinflipLastUsed": 0,
+        "blackjackLastUsed": 0,
+        "robLastUsed": 0,
+        "smuggleLastUsed": 0,
+        "begLastUsed": 0,
+        "cookLastUsed": 0,
+        "exerciseLastUsed": 0,
+        "workLastUsed": 0,
+        "questLastUsed": 0
+    },
+    "1250422145998131322": {
+        "cash": 89544,
+        "marriage": null,
+        "lovePoints": 0,
+        "inventory": {},
+        "consumables": {},
+        "uniqueItems": {},
+        "equipped": {
+            "rod": null,
+            "pickaxe": null,
+            "tool": null
+        },
+        "questData": {
+            "active": false,
+            "type": null,
+            "target": 0,
+            "progress": 0,
+            "reward": 0
+        },
+        "dailyLastUsed": 1765447274299,
+        "weeklyLastUsed": 0,
+        "mineLastUsed": 0,
+        "fishLastUsed": 0,
+        "huntLastUsed": 0,
+        "slotLastUsed": 0,
+        "coinflipLastUsed": 0,
+        "blackjackLastUsed": 0,
+        "robLastUsed": 0,
+        "smuggleLastUsed": 0,
+        "begLastUsed": 0,
+        "cookLastUsed": 0,
+        "exerciseLastUsed": 0,
+        "workLastUsed": 1765447281846,
+        "questLastUsed": 0
+    }
+}
